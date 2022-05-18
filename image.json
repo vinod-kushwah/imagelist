@@ -1,1 +1,13 @@
-[]
+{
+    "images": [
+      {
+        "id": 1,
+        "image_url" :
+        "https://user-images.githubusercontent.com/91118327/167148761-d74a7d02-3afd-471d-ab4e-870ad0b374b9.png",
+      },
+       {
+        "id": 2,
+        "image_url" :
+        "https://user-images.githubusercontent.com/91118327/167148761-d74a7d02-3afd-471d-ab4e-870ad0b374b9.png",
+      }
+    ]}
